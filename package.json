@@ -7,6 +7,10 @@
     "start": "node app.js",
     "test": "make test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weborion312/passport-node.git"
+  },
   "keywords": [
     "nodejs",
     "express",
