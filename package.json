@@ -1,5 +1,5 @@
 {
-  "name": "my Passport app",
+  "name": "my_Passport_App",
   "version": "0.0.1",
   "description": "I have built node app using passport.",
   "main": "app.js",
