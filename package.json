@@ -1,5 +1,5 @@
 {
-  "name": "my_Passport_App",
+  "name": "Passport_App",
   "version": "0.0.1",
   "description": "I have built node app using passport.",
   "main": "app.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/weborion312/passport-node.git"
+    "url": "https://github.com/weborion312/passport-node"
   },
   "keywords": [
     "nodejs",
